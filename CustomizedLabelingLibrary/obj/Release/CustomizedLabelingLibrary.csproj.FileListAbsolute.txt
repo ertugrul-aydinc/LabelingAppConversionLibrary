@@ -1,0 +1,11 @@
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\bin\Release\CustomizedLabelingLibrary.dll
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\bin\Release\CustomizedLabelingLibrary.pdb
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\bin\Release\Basler.Pylon.dll
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\bin\Release\halcondotnet.dll
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\bin\Release\Basler.Pylon.xml
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\bin\Release\halcondotnet.xml
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\obj\Release\CustomizedLabelingLibrary.csproj.AssemblyReference.cache
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\obj\Release\CustomizedLabelingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\obj\Release\CustomizedLabelingLibrary.csproj.CopyComplete
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\obj\Release\CustomizedLabelingLibrary.dll
+C:\Users\VM-Support\Desktop\Visiomex.Products.Labeling\Visiomex.Projects.Labeling\CustomizedLabelingLibrary\obj\Release\CustomizedLabelingLibrary.pdb

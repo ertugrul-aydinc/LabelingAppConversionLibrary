@@ -1,0 +1,24 @@
+﻿<Window x:Class="Visiomex.Projects.LabelingTool.Windows.ProjectNameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Visiomex.Projects.LabelingTool.Windows"
+        mc:Ignorable="d"
+        Title="Model Oluştur" Height="200" Width="400" MaxHeight="200" MaxWidth="400" Icon="..\Images\favicon.ico">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="10,10,10,10">
+            <TextBox x:Name="ProjectNameTextBox" HorizontalAlignment="Left" Text="" materialDesign:HintAssist.Hint="Proje Adı Giriniz"  Width="350" Margin="10,10,10,10"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="ProjectPathTextBox" IsEnabled="False" Width="305" Margin="10,17,5,10"/>
+                <Button x:Name="ProjectPathButton" Background="White" Style="{StaticResource MaterialDesignOutlinedButton}" BorderBrush="Black" Width="35" Height="35" Padding="0 0 0 0" ToolTip="Fotoğraf Aç" Margin="5 0 0 0" Click="ProjectPathButton_Click">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Left">
+                        <materialDesign:PackIcon Kind="FilePlus" Width="24" Height="24" Foreground="Gray" />
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <Button x:Name="CreateNewModelButton" HorizontalAlignment="Left" Content="Yeni Model Oluştur"  Width="350" Margin="10,10,10,10" Click="CreateNewModelButton_Click" ></Button>
+        </StackPanel>
+    </Grid>
+</Window>
